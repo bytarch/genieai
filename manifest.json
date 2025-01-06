@@ -1,0 +1,18 @@
+{
+    "name": "Genie AI",
+    "short_name": "Genie",
+    "description": "AI-powered academic assistant",
+    "start_url": "/c",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "orientation": "portrait-primary",
+    "icons": [
+     
+      {
+        "src": "/logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
